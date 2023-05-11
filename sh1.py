@@ -2,4 +2,4 @@ a=12
 b=23
 c=a+b
 print("sum is ",c)
-ss
+print("sum is ",a)
